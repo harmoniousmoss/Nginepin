@@ -1,0 +1,16 @@
+{
+  "cssImports": {
+    "/Users/syaefulbahri/Research/nginepin/app/page.tsx": [
+      "/Users/syaefulbahri/Research/nginepin/node_modules/next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/syaefulbahri/Research/nginepin/app/layout.tsx": [
+      "/Users/syaefulbahri/Research/nginepin/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/syaefulbahri/Research/nginepin/app/page": [
+      "/Users/syaefulbahri/Research/nginepin/node_modules/next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/syaefulbahri/Research/nginepin/app/globals.css"
+    ]
+  }
+}
