@@ -1,1 +1,1 @@
-# Nginepin Web with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
+# Nginepin Web with Next.js 13, Tailwind, Prisma, and MongoDB
